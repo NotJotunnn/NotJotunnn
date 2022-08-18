@@ -7,4 +7,4 @@
 - 📫 How to reach me: leandro.fcode@gmail.com
 
 P.S.: I am having fun with codewars!
-<p align="left"> <img src="https://www.codewars.com/users/NotJotunnn/badges/large" alt="Kata score" /> </p>
+<p align="left"> <img src="https://www.codewars.com/users/NotJotunnn/badges/small" alt="Kata score" /> </p>
