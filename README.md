@@ -21,4 +21,4 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notjotunnn&layout=compact&hide_progress=true&custom_title=Languages%20Used&theme=nightowl)](https://github.com/NotJotunnn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notjotunnn&layout=compact&hide_progress=true&custom_title=Languages%20Used%20The%20Most&theme=nightowl)](https://github.com/NotJotunnn)
